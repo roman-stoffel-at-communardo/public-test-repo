@@ -2,4 +2,4 @@
 
 A image: 
 
-![Alt text](the-image.jpg "a title")
+![Alt text](the-image2.jpg "a title")
